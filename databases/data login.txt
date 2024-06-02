@@ -1,0 +1,13 @@
+===== Masyarakat =====
+Sample akun masyarakat :
+username : dhini_tanjungrajo
+password : tanjungrajo
+
+
+===== Admin =====
+Url untuk login admin : http://localhost/zona_lapor/auth
+
+Sample akun admin :
+username : admin
+password : admin
+
